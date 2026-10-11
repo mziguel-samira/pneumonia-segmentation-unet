@@ -1,0 +1,18 @@
+# Données (volumineuses, non incluses)
+*.csv
+*.dcm
+data/
+
+# Modèles entraînés (checkpoints)
+*.pth
+
+# Environnement virtuel
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Système
+.DS_Store
+Thumbs.db
